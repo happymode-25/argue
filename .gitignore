@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Personal review ledger and rendered maps.
+.argue/
+*.jsonl
+*-map.html
+map.html
